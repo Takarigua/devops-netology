@@ -110,3 +110,5 @@
 ![8](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/8.png)
 ![9](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/9.png)
 ![10](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/10.png)
+
+Строки Test commit созданы в PyCharm
