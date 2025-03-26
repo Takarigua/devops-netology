@@ -100,12 +100,12 @@
 В качестве результата отправьте ссылку на репозиторий. 
 
 ### Скриншоты выполнения
-![1](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/1.png)
-![2](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/2.png)
-![3](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/3.png)
-![4](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/4.png)
-![5](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/5.png)
-![6](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/6.png)
-![7](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/7.png)
-![8](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/8.png)
-![9](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen/9.png)
+![1](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/1.png)
+![2](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/2.png)
+![3](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/3.png)
+![4](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/4.png)
+![5](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/5.png)
+![6](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/6.png)
+![7](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/7.png)
+![8](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/8.png)
+![9](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/9.png)
