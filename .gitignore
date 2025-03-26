@@ -1,0 +1,8 @@
+# Общие исключения
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
