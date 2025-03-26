@@ -100,10 +100,10 @@
 В качестве результата отправьте ссылку на репозиторий. 
 
 ### Скриншоты выполнения
-![1](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/1.png)
-![2](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/2.png)
-![3](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/3.png)
-![4](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/4.png)
+![1](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/1.png)
+![2](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/2.png)
+![3](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/3.png)
+![4](https://github.com/Takarigua/devops-netology/blob/76425de83f446527906c466df87dbdef1f2d5ad0/screen2/4.png)
 ![5](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/5.png)
 ![6](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/6.png)
 ![7](https://github.com/Takarigua/devops-netology/blob/f55b053cad4b50446e18ae17547593c006b77380/screen2/7.png)
